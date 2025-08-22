@@ -30,7 +30,7 @@ I live in San Francisco with my husband, [Jim Fingal](https://jimfingal.com), an
 
 I mostly spend my time running, biking, gardening, writing, making dumb music. You can listen to some of it by calling 419-452-4857 (no human will pick up, I promise, but you can leave a message if you want).
 
-In the past co-founded and helped run [Logic Magazine](https://logicmag.io), on which I continue on the board, and helped start the [San Francisco Review of Whatever](https://sfreview.org/). I still sometimes help with tech stuf (hardware, software, etc) at [BFF.fm](https://bff.fm/volunteer), a San Francisco community radio station based in the Mission.
+In the past co-founded and helped run [Logic Magazine](https://logicmag.io), on which I continue on the board, and helped start the [San Francisco Review of Whatever](https://sfreview.org/). I still sometimes help with tech stuf (hardware, software, etc) at [BFF.fm](https://bff.fm/volunteer), a San Francisco community radio station based in the Mission. In some distant past, I spent a lot of time in the dank basement of college radio station [WHRB](https://whrb.org), where I met Jim.
 
 ## contact
 
