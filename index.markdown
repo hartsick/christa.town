@@ -12,7 +12,9 @@ Hi, I'm Christa Hartsock.
 
 ## professional things
 
-I’m currently working as a software engineer and UX researcher on a consulting basis through my company topographic LLC. I'm available for work on interesting projects that move toward a better world—if you have something you'd like to talk about working on together, let's chat (email: christa at topographic.llc).
+I’m currently the Associate Director of Engineering at the Electronic Frontier Foundation, which is a lot of words to say that I am the manager of a team of software engineers that helps keep EFF running.
+
+I also work as a software engineer and UX researcher on a consulting basis through my company topographic LLC. I'm available for work on interesting projects that move toward a better world—if you have something you'd like to talk about working on together, let's chat (email: christa at topographic.llc).
 
 In the recent past I've worked as:
 
