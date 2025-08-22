@@ -36,10 +36,7 @@ I co-founded and helped run [Logic Magazine](https://logicmag.io), on which I co
 
 I exist a few other places:
 * email: christa (dot) hartsock (at) gmail (dot) com
-* on the fediverse at 
-    * <a rel="me" href="https://void.holdings/@christa">void.holdings (my main account)</a>
-    * <a rel="me" href="https://friend.camp/@christa">friend.camp (my secondary account that mostly posts local to the friend camp instance)</a>
-    * [bookwyrm (federated, non-corporate goodreads)](https://bookwyrm.social/user/christa)
+* on the fediverse at <a rel="me" href="https://friend.camp/@christa">friend.camp/@christa</a>
 * [github](https://github.com/hartsick)
 * [linkedin](http://linkedin.com/in/chartsock)
 * offline, mostly in San Francisco
