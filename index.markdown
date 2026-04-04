@@ -14,7 +14,9 @@ Hi, I'm Christa Hartsock.
 
 I’m currently the Associate Director of Engineering at the Electronic Frontier Foundation, which is a lot of words to say that I am the manager of a team of software engineers that helps keep EFF running.
 
-I also work as a software engineer and UX researcher on a consulting basis through my company topographic LLC. I'm available for work on interesting projects that move toward a better world—if you have something you'd like to talk about working on together, let's chat (email: christa at topographic.llc).
+I additionally work as a software engineer and UX researcher on a consulting basis through my company topographic. I'm available for work on interesting projects that move toward a better world—if you have something you'd like to talk about working on together, let's chat (email: christa at topographic.llc).
+
+I recently began a Masters of Library and Information Science degree at San José State University, and exploring a career shift into public librarianship or archives. Please reach out if you'd like to chat about this!
 
 In the recent past I've worked as:
 
